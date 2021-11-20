@@ -1,0 +1,17 @@
+{
+    "name": "JESUSCOIN",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Jesus Coin",
+        "/category/asset_value_tracking/core-token/symbol": "JESUS",
+        "/category/asset_value_tracking/core-token/decimals": "8",
+        "/category/asset_value_tracking/core-token/supply": "21000",
+        "/category/collection/core-entity": true
+    }
+}
